@@ -1,51 +1,105 @@
-QA Testing Portfolio
+# 🧪 QA Testing Portfolio
 
-Hi, I'm Rukshar Zeba from Nepal. I'm a BIM student and currently learning and building my skills in Software Testing and Quality Assurance.
+Hi, I'm Rukshar Zeba, a BIM student from Nepal working toward a career in Software Quality Assurance (QA).
 
-I created this repository to keep my QA practice, projects, and learning work in one place.
+I created this repository to document my QA learning journey through practical testing exercises, test cases, bug reports, API testing, SQL, and test automation.
 
-What I'm Learning
+My goal is to build strong testing skills, understand application behavior, and learn how to communicate testing results clearly.
 
-* Manual Testing
-* Writing Test Cases
-* Bug Reporting
-* Web Application Testing
-* API Testing using Postman
-* Basic SQL for Testing
-* Selenium with Python
-* Pytest
-* Page Object Model (POM)
-* Git and GitHub
+## 👩‍💻 About Me
 
-Projects
+- 🎓 BIM Student
+- 🧪 Aspiring QA Engineer
+- 🔍 Interested in software testing, problem-solving, and application quality
+- 🌱 Continuously building practical QA skills through hands-on practice
 
-Manual Testing
+## 🛠️ Skills & Tools
 
-I'm working on practical manual testing projects where I practice creating test cases, finding bugs, and preparing test reports.
+| Area | Skills and Tools |
+|---|---|
+| Manual Testing | Functional, negative, and regression testing |
+| Test Documentation | Test scenarios, test cases, bug reports, test summaries |
+| API Testing | Postman, HTTP methods, status codes, assertions |
+| Database Testing | Basic SQL queries, filtering, sorting, joins |
+| Automation Testing | Python, Selenium WebDriver, Pytest |
+| Automation Design | Locators, explicit waits, assertions, Page Object Model (POM) |
+| Version Control | Git and GitHub |
 
-API Testing
+## 📂 Projects
 
-I'm practicing API testing with Postman, including different HTTP methods, status codes, response validation, variables, and basic assertions.
+### 1. Manual Testing Project — OrangeHRM
 
-Selenium Automation
+Status: In progress
 
-I'm learning web automation using Python, Selenium, and Pytest. I have practiced browser actions, locators, waits, assertions, dropdowns, alerts, frames, and Page Object Model.
+Practicing manual testing using the public OrangeHRM demo application.
 
-Tools I'm Using
+Testing coverage:
+- Login and authentication
+- Employee creation, editing, and search
+- Required-field validation
+- Negative and boundary testing
+- Test case execution and result documentation
 
-* Postman
-* Selenium
-* Python
-* Pytest
-* SQL
-* Git
-* GitHub
+Project documents:
+- Test scenarios
+- Test cases and execution results
+- Bug reports
+- Test summary report
 
- 
-About This Repository
+📁 Folder: `Manual-Testing-Project/`
 
-This portfolio will be updated as I learn and complete more QA projects.
+### 2. API Testing — Postman
 
-I'm currently focused on improving my practical testing skills and understanding how QA is done in real projects.
+Status: Practice and development
 
-Thanks for visiting my portfolio!
+Practicing API requests and response validation using sample endpoints.
+
+Topics practiced:
+- GET, POST, PUT, and DELETE requests
+- HTTP status-code validation
+- Response-body assertions
+- Negative testing
+- Variables and environment configuration
+- Response-time checks
+
+📁 Folder: `API-Testing-Project/`
+
+### 3. Selenium Automation — Python & Pytest
+
+Status: Practice and development
+
+Building browser automation skills using Python, Selenium WebDriver, and Pytest.
+
+Topics practiced:
+- Locators and browser interactions
+- Positive and negative login tests
+- Explicit waits
+- Dropdowns, alerts, and frames
+- Assertions and Pytest
+- Fixtures and Page Object Model
+
+📁 Folder: `Selenium-Automation-Project/`
+
+## 🎯 Current Learning Goals
+
+- Improve test case design and exploratory testing
+- Write clear and reproducible bug reports
+- Strengthen API testing and SQL skills
+- Build maintainable Selenium automation tests
+- Learn professional QA workflows and reporting
+
+## 🔎 My Testing Approach
+
+I believe testing is more than finding bugs. It involves understanding expected behavior, exploring different scenarios, comparing actual results with expected results, and documenting findings clearly.
+
+I aim to investigate unusual behavior before classifying it as a confirmed defect.
+
+## 🤝 Connect With Me
+
+- GitHub: [ZebaRukhshar](https://github.com/ZebaRukhshar)
+- LinkedIn: www.linkedin.com/in/rukshar-zeba
+
+
+This portfolio will continue to grow as I complete projects and improve my QA skills.
+
+Thanks for visiting! 🚀
