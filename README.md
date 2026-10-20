@@ -27,13 +27,13 @@ My goal is to build strong testing skills, understand application behavior, and 
 
 ## 📂 Projects
 
-### 1. Manual Testing Project — OrangeHRM
+### 1. Manual Testing — OrangeHRM
 
-Status: In progress
+**Status:** In progress
 
 Practicing manual testing using the public OrangeHRM demo application.
 
-Testing coverage:
+**Testing coverage:**
 - Login and authentication
 - Employee creation, editing, and search
 - Required-field validation
@@ -41,12 +41,12 @@ Testing coverage:
 - Test case execution and result documentation
 
 Project documents:
-- Test scenarios
-- Test cases and execution results
-- Bug reports
-- Test summary report
+- [Test Scenarios](Manual-Testing-Project/Test-Scenarios/OrangeHRM-Test-Scenarios.md)
+- [Test Cases](Manual-Testing-Project/Test-Cases/OrangeHRM-Test-Cases.xlsx)
+- [Bug Reports](Manual-Testing-Project/Bug-Reports/OrangeHRM-Bug-Reports.md)
+- [Test Summary Report](Manual-Testing-Project/Test-summary-Reports/OrangeHRM-Test-Summary.md)
 
-📁 Folder: `Manual-Testing-Project/`
+[View Manual Testing Project](Manual-Testing-Project/README.md)
 
 ### 2. API Testing — Postman
 
@@ -62,11 +62,11 @@ Topics practiced:
 - Variables and environment configuration
 - Response-time checks
 
-📁 Folder: `API-Testing-Project/`
+Project folder: `API-Testing-Project/`
 
 ### 3. Selenium Automation — Python & Pytest
 
-Status: Practice and development
+**Status:** Practice and development
 
 Building browser automation skills using Python, Selenium WebDriver, and Pytest.
 
@@ -78,7 +78,8 @@ Topics practiced:
 - Assertions and Pytest
 - Fixtures and Page Object Model
 
-📁 Folder: `Selenium-Automation-Project/`
+Project folder: `Selenium-Automation-Project/`
+
 
 ## 🎯 Current Learning Goals
 
@@ -97,7 +98,7 @@ I aim to investigate unusual behavior before classifying it as a confirmed defec
 ## 🤝 Connect With Me
 
 - GitHub: [ZebaRukhshar](https://github.com/ZebaRukhshar)
-- LinkedIn: www.linkedin.com/in/rukshar-zeba
+- LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/rukshar-zeba)
 
 
 This portfolio will continue to grow as I complete projects and improve my QA skills.
